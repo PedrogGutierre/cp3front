@@ -1,0 +1,30 @@
+header{
+    width: 980px;
+    height: 140px;
+}
+
+aside{
+    width: 270px;
+    height: 450px;
+    display: inline-block;
+
+}
+
+main{
+    width: 690px;
+    height: 450px;
+    display: inline-block;
+    margin: 15px 0px 15px 15px;
+}
+
+footer{
+    width: 980px;
+    height: 70px;
+}
+
+header, aside ,main ,footer{
+    background-color: rgb(19, 94, 94);
+    text-align: center;
+    color: rgb(255, 255, 255);
+    
+}
